@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cryptoo1337
+- 👀 I’m interested in Game Hacking & Cracking
+- 🌱 I’m currently learning PHP/JAVA/LUA
+- 💞️ I’m looking to collaborate on with other coder
